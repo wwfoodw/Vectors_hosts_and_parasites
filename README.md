@@ -14,7 +14,7 @@ This repository contains the metadata and code used in our studies of:
 - Rangitāhua mosquito ecology study. Rangitāhua is an island archipelago located approximately 1000 km northeast of mainland Aotearoa New Zealand, that has had limited prior monitoring of mosquito populations and no assessment of the avian parasites they may carry. Included is a metadata file (rangitāhu_metadata.csv), bioinformatic script (rangitahua_bioinformatic_pipeline.sh) and R-code (rangitāhua_avian_malaria.R) required to reproduce the analyses in a pending publication looking at avian *Plasmodium* present in birds and mosquitoes on Rangitāhua as well as mosquito diet. The publication also reports the first observations that the globally problematic Southern house mosquito *Culex quinquefasciatus* has invaded the island.
 
 ![Map of Rangitāhua](Rangitahua_map.jpg)
-![Rangitāhua Culex diagnostic PCR](Rangitāhua_Culex_diagnostic_PCR.jpg)
+![Rangitāhua_Culex_diagnostic_PCR](Rangitāhua_Culex_diagnostic_PCR.jpg)
 
 
 The resources provided here are intended to support reproducible research in vector ecology, disease ecology, and biodiversity monitoring.
